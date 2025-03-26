@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @mvirk2
-- 👀 I’m interested in cybersecurity,cloud,dataengineering field 
-- 🌱 I’m currently learning Devops/Cloud/Data
--
+# 👋 Hi, I’m Mansirat
 
-<!---
-mvirk2/mvirk2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 **Aspiring DevOps Engineer** | Ex-IT Support | Always Learning  
+🔧 Skilled in CI/CD, Docker, Jenkins, ArgoCD, Helm, and AWS  
+🔍 Currently exploring Python & MLOps  
+🚀 Passionate about automation, cloud-native tools, and continuous improvement  
+🤝 Open to collaboration, feedback, and new opportunities in DevOps
+
