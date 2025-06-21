@@ -1,61 +1,27 @@
-# 👩‍💻 Mansirat Virk
+# 💫 About Me:
+Hi there! I'm Mansirat, an aspiring Cloud and Cybersecurity Engineer based in Canada 🇨🇦 with 5 years of IT Support experience. I’m currently transitioning into cloud, data engineering, and cybersecurity roles — blending my hands-on support background with a passion for DevOps and automation.<br><br>🔐 I’ve completed the AWS Solutions Architect Associate certification, ServiceNow Admin certification, and a Cybersecurity Internship.<br>🛠 I’ve worked with tools like Kubernetes, Docker, Jenkins, GitHub Actions, Prometheus, and am skilled in Python, SQL, and Linux.<br>🌩️ Currently diving deeper into Data Engineering, DevOps projects, and preparing for CEH certification.<br>💼 Actively seeking junior-level roles in Cloud Engineering, DevOps, or Cybersecurity.<br><br>⚡ Fun Fact: I live near a beach and love going on peaceful runs by the water to reset my mind 🌊<br>🎸 I’m also learning piano and guitar, and dream of someday combining tech with creative music projects!
 
-🎯 **Aspiring DevOps & Cloud Engineer** | 🛠️ **5+ Years in IT Support** | 🇨🇦 Based in Canada  
-Bridging the gap between traditional IT support and modern cloud-native DevOps practices.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mansirat-virk-devops/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansiratvirk98@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mvirk2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mvirk2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mvirk2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-With over five years of experience in technical support roles, I’ve developed a strong foundation in system troubleshooting, user management, and IT infrastructure operations.  
-My career is now focused on **DevOps engineering**—where I bring hands-on expertise in **automation, containerization, infrastructure as code (IaC), and monitoring**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mvirk2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I’ve contributed to real-world DevOps projects and am passionate about delivering efficient, scalable, and secure systems using modern cloud-native technologies.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🧰 Core Skills & Technologies
-
-| Domain                  | Tools & Technologies                                                                 |
-|-------------------------|---------------------------------------------------------------------------------------|
-| **OS & Scripting**      | 🐧 Linux · Bash · Shell Scripting                                                     |
-| **Version Control**     | 🔧 Git · GitHub · GitLab                                                              |
-| **Containerization**    | 🐳 Docker · ☸️ Kubernetes · Amazon EKS                                                 |
-| **Infrastructure as Code** | 🌍 Terraform                                                                       |
-| **CI/CD**               | 🚀 GitHub Actions · GitLab CI · End-to-End CI/CD Pipelines                           |
-| **Monitoring & Logging**| 📈 Prometheus · Grafana · Basic Alerting & Logging                                   |
-| **Cloud Platforms**     | ☁️ AWS (Certified) · IAM · VPC · EC2 · S3 · CloudWatch                                |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mvirk2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mvirk2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Currently Focused On
-
-- 🛡️ Ethical Hacking & Cybersecurity Fundamentals (CEH – in progress)  
-- 🧠 End-to-end GitOps & SRE practice implementations  
-- 🧰 Infrastructure automation with Terraform and Helm  
-- ☁️ Expanding AWS skills and cloud-native design knowledge
-
----
-
-## 🏅 Certifications
-
-- ✅ [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2490cae8-b02e-417e-85b6-a7d6ab06529a/linked_in_profile)  
-- ✅ [Certified ServiceNow System Administrator](https://www.credly.com/org/servicenow/badge/servicenow-certified-system-administrator)  
-- ✅ [Cybersecurity Internship Certificate – Riipen](https://app.riipen.com/teams/rV0XbvAV/certificates/ALeYlZJL)
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mansirat-virk-devops/)  
-- 📧 Email: **siratvirk99@gmail.com**
-
-I'm open to **junior roles in DevOps, Cloud, or Platform Engineering**, and excited to collaborate on open-source or real-world cloud-native projects.
-
----
-
-## 🎵 Fun Fact
-
-When I'm not immersed in YAML files or cloud consoles, you’ll find me 🎹 playing piano, 🎸 exploring guitar riffs, or recharging near peaceful beaches 🌊.
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
